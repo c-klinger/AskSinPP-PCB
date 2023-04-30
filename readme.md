@@ -7,7 +7,7 @@ soon...
 ## HB-UNI-328P-SMALL
 Flexible and small (49x49mm) PCB for AskSin++ devices with multiple power options. Small enough to fit into devices that integrate into german wall socket / switch series.
 
-![PCB Picture](https://github.com/c-klinger/AskSinPP-PCB/hb-uni-328p-small/images/hb-uni-328p-small-pcbs.jpg)
+![PCB Picture](https://raw.githubusercontent.com/c-klinger/AskSinPP-PCB/main/hb-uni-328p-small/images/hb-uni-328p-small-pcbs.jpg)
 
 [Schematics](https://github.com/c-klinger/AskSinPP-PCB/hb-uni-328p-small/hb-uni-328p-small.pdf)
 
