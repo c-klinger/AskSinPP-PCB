@@ -57,5 +57,5 @@ Inspired from pa-pa [HMSensor](https://github.com/pa-pa/HMSensor) and [HB-UNI-64
 # LICENSE
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-All content in this repository is is licensed under a [Creative Commons NonCommercial ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+All content in this repository is is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
