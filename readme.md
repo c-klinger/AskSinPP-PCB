@@ -1,5 +1,5 @@
 # AskSin++ PSB
-Collection of my PCBs for building custom Homematic devices using [AskSin++](https://github.com/pa-pa/AskSinPP).
+Collection of my PCBs for building Homebrew devices using [AskSin++](https://github.com/pa-pa/AskSinPP).
 
 ## HB-UNI-328P
 soon...
