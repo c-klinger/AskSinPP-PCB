@@ -9,7 +9,7 @@ Flexible and small (49x49mm) PCB for AskSin++ devices with multiple power option
 
 ![PCB Picture](https://raw.githubusercontent.com/c-klinger/AskSinPP-PCB/main/hb-uni-328p-small/images/hb-uni-328p-small-pcbs.jpg)
 
-[Schematics](https://github.com/c-klinger/AskSinPP-PCB/hb-uni-328p-small/hb-uni-328p-small.pdf)
+[Schematics](https://github.com/c-klinger/AskSinPP-PCB/blob/main/hb-uni-328p-small/hb-uni-328p-small.pdf)
 
 ### Bill of Material
 
